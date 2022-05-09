@@ -1,0 +1,59 @@
+.tartalom
+{
+text-align: justify;
+background-color: lightblue;
+margin: 2px;
+padding: 10px;
+}
+.menu
+{
+    margin: 0 10px 0 10px;
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    background-color: lightblue;
+}
+
+ul
+{
+list-style-type: none;
+text-align: left;
+padding: 10px;
+float: left;
+width: 100%;
+background-color: blue;
+color: yellow;
+}
+
+li
+{
+display: inline;
+padding-left: 40px;
+}
+
+#auto
+{
+float: right;
+width: 250px;
+}
+
+.kiemelt
+{
+color: red;
+font-weight: bold;
+}
+
+body
+{
+background-color: blue;
+}
+
+a
+{
+color: yellow;
+text-decoration: none;
+}
